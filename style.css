@@ -1,5 +1,6 @@
 #container{
     position: relative;
+    margin: auto;
     width: 40vw;
     height: 40vw;
     /* background-color:red ; */
