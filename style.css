@@ -6,7 +6,17 @@
     /* background-color:red ; */
     background-image: url(clock.png);
     background-size: 100%;
-    border: 2px solid black;
+    border: 2px solid black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#container img{
+    height: 30vw;
+    width: 30vw;
+   opacity: 0.3;
+
 }
 #hour, #minute, #second{
     position: absolute;
