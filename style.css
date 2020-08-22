@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+
 #container{
     position: relative;
     margin: auto;
@@ -6,7 +12,7 @@
     /* background-color:red ; */
     background-image: url(clock.png);
     background-size: 100%;
-    border: 2px solid black; 
+    /* border: 2px solid black;  */
     display: flex;
     justify-content: center;
     align-items: center;
