@@ -1,5 +1,9 @@
 #container{
     position: relative;
-    width: 50vw;
-    height: 50vw;
+    width: 40vw;
+    height: 40vw;
+    /* background-color:red ; */
+    background-image: url(clock.png);
+    background-size: 100%;
+    border: 2px solid black;
 }
