@@ -1,0 +1,4 @@
+Author : Sonu Pandey
+version: 1.0
+
+This is a simple clock using HTML, CSS and JS
